@@ -35,7 +35,7 @@ Also in across his career he has managed to earn various points in most of the r
 
 The following sections will explore additional contributing factors and highlight key opportunities for improvement.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffd29d6c-74da-4c04-b4b4-a11f5a89a3a9/0ec2f781-6d9d-472e-ae05-dcd349da6bfe/image.png)
+![dashboard](dashboard.png)
 
 ### Qualifying position vs race position
 
@@ -43,7 +43,7 @@ The following sections will explore additional contributing factors and highligh
 - On average, Leclerc tends to lose around two positions between qualifying and the race. This drop can result in a significant loss of points, especially when these positions are lost from the top 5, where the points difference between places is the most substantial.
 - The best season was 2022 were he managed to keep almost the same position between race and qualifying. This could be explain with the change of regulations given by FIA for the cars were Ferrari made a really good job that couldn’t keep up with the bad race strategies
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffd29d6c-74da-4c04-b4b4-a11f5a89a3a9/b89d19ed-9e5a-4181-98c5-578355d63d48/image.png)
+![imageraceVsQualypng](raceVsQualy.png)
 
 ### Performance by Type of Circuit
 
@@ -51,14 +51,14 @@ The following sections will explore additional contributing factors and highligh
 - Charles also has a good performance in the urban circuits like Monaco or Azerbaijan. Even though it’s the type of circuit were he loses most position (2 positions) he gets almost the same points that in the hybrid circuits.
 - Permanent circuits make up the majority of tracks on the Formula 1 calendar, yet they are where Charles Leclerc tends to perform the worst. This could explain why he loses a significant number of points over the course of the season and highlights an area where he should focus on improving. Addressing his performance on these types of circuits could significantly boost his overall results and points tally.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffd29d6c-74da-4c04-b4b4-a11f5a89a3a9/e4a28d63-a544-485a-b907-c55c3e1c9b8e/image.png)
+![circuit.png](circuit.png)
 
 ### Performance in different weather conditions
 
 - The majority of races on the Formula 1 calendar take place under dry track conditions, where Charles Leclerc tends to perform better. In these conditions, he averages 8 points per race, typically finishing in 7th place.
 - In wet or mixed track conditions, his performance is relatively similar, with an average finishing position of 9th. However, Leclerc has scored more points in full wet conditions. This could be attributed to strategic errors, particularly in timing tire changes from wet to dry, which can negatively impact his results.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffd29d6c-74da-4c04-b4b4-a11f5a89a3a9/ff5f3edf-15f4-4e16-8b26-b5696b0ad505/image.png)
+![weather.png](weather.png)
 
 ## Recommendations
 
