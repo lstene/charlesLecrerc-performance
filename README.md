@@ -19,7 +19,7 @@ Key insights and recommendations are provided across the following areas:
 
 FastF1 API retrieves data as Json format and it can be made according to what to retrieve into a single query and made the data frame scheme like this:
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ffd29d6c-74da-4c04-b4b4-a11f5a89a3a9/fc97c208-0229-4be1-ac19-6d8da05e8e7d/image.png)
+![dataTypes](dataTypes.png)
 
 Prior to the  beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The Py Spark queries utilized to inspect and perform quality checks can be found here.
 
