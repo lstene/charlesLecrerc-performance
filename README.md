@@ -21,7 +21,9 @@ FastF1 API retrieves data as Json format and it can be made according to what to
 
 ![dataTypes](dataTypes.png)
 
-Prior to the  beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The Py Spark queries utilized to inspect and perform quality checks can be found here.
+Prior to the  beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The Py Spark queries utilized to inspect and perform quality checks can be found [here](https://github.com/lstene/charlesLecrerc-performance/blob/main/F1_CL.ipynb).
+
+The data extraction notebook can be found [here](https://github.com/lstene/charlesLecrerc-performance/blob/main/F1_dataExtractions.ipynb) 
 
 ## Executive Summary
 
